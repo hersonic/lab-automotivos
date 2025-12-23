@@ -1,20 +1,51 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# 🚗 Livro de Projeto: Carros e IA Generativa
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este documento reúne conceitos, aplicações e ideias sobre como **Inteligência Artificial Generativa** pode transformar o setor automotivo.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+---
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+## 📖 Capítulo 1 – Introdução
 
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+A indústria automotiva está em constante evolução.  
+Com a IA Generativa, é possível criar novos designs, simular cenários de direção e até gerar experiências personalizadas para motoristas.
 
-[LINK PARA O E-BOOK AQUI]()
+---
 
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+## ⚙️ Capítulo 2 – Conceitos Fundamentais
+
+- **Token**: unidade mínima de texto processada por modelos de linguagem.  
+- **Dataset**: conjunto de dados usado para treinar ou ajustar modelos.  
+- **Fine-tuning**: adaptação de modelos com dados específicos.  
+- **Inference**: uso do modelo para gerar saída a partir de uma entrada.  
+
+---
+
+## 🚘 Capítulo 3 – Aplicações em Carros
+
+- **Design Automotivo**: geração de protótipos visuais de novos modelos.  
+- **Assistentes de Bordo**: sistemas inteligentes que respondem em tempo real.  
+- **Simulação de Cenários**: criação de dados sintéticos para treinar carros autônomos.  
+- **Marketing Automotivo**: geração de campanhas e conteúdos personalizados.  
+
+---
+
+## 🛠️ Capítulo 4 – Tecnologias Utilizadas
+
+- Modelos de Linguagem (LLMs)  
+- Ferramentas de geração de imagens  
+- Simuladores de direção  
+- Python e bibliotecas de IA  
+
+---
+
+## 🔮 Capítulo 5 – Futuro da IA nos Carros
+
+- Carros autônomos cada vez mais seguros.  
+- Experiências multimodais (voz, visão, texto).  
+- Design de veículos totalmente gerado por IA.  
+
+---
+
+## 👨‍💻 Autor
+
+Este livro foi criado como parte de um projeto exploratório sobre IA Generativa aplicada ao setor automotivo.

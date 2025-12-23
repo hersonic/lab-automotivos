@@ -1,20 +1,39 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# 🚗 Vídeos sobre Carros e IA Generativa
 
-## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este documento reúne ideias e referências de vídeos que podem ser usados para ilustrar o impacto da Inteligência Artificial Generativa no setor automotivo.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+---
 
-## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+## 🎬 Capítulo 1 – Introdução
 
-## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+Vídeos explicativos sobre como a IA está transformando o design e a produção de carros.  
 
-[LINK PARA O VÍDEO AQUI]()
+- Exemplo: animações mostrando a evolução de protótipos gerados por IA.  
+- Objetivo: apresentar conceitos básicos de IA generativa aplicada ao setor automotivo.  
 
-## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+---
+
+## 🚘 Capítulo 2 – Aplicações em Carros
+
+- **Design Automotivo**: vídeos demonstrando geração de modelos 3D de carros.  
+- **Assistentes de Bordo**: demonstrações de sistemas inteligentes respondendo a motoristas.  
+- **Simulação de Cenários**: vídeos de ambientes virtuais criados para treinar carros autônomos.  
+- **Marketing Automotivo**: campanhas publicitárias com conteúdo gerado por IA.  
+
+---
+
+## 🛠️ Capítulo 3 – Tecnologias em Vídeo
+
+- Modelos de linguagem explicando conceitos em vídeo.  
+- Ferramentas de geração de imagens convertidas em animações.  
+- Simuladores de direção com visualização em tempo real.  
+
+---
+
+## 🔮 Capítulo 4 – Futuro dos Vídeos Automotivos
+
+- Vídeos interativos mostrando carros autônomos em ação.  
+- Experiências multimodais (voz + visão + texto).  
+- Documentários sobre design de veículos totalmente gerado por IA.  
+
+---
